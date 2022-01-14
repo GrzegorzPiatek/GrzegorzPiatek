@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GrzegorzPiatek
-- 👀 I’m interested in data analyst, flask, cryptocurencies
-- 🌱 I’m currently learning python, flask, R, c++
-- 💞️ I’m looking to collaborate on data science/IT
+- 👋 Hi, I’m Grzegorz Piatek
+- 👀 I’m interested in web development, data analyst
+- 🌱 I’m currently learning PHP/Laravel, MySQL, OracleSQL
+- 💞️ I’m looking to collaborate on backend web development
 - 📫 How to reach me: grzegorzadampiatek@gmail.com 
