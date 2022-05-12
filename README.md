@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Grzegorz Piatek
 - 👀 I’m interested in web development, data analyst
-- 🌱 I’m currently learning PHP/Laravel, MySQL, OracleSQL
+- 🌱 I’m currently learning PHP/Laravel, Django, MySQL
 - 💞️ I’m looking to collaborate on backend web development
 - 📫 How to reach me: grzegorzadampiatek@gmail.com 
